@@ -2,5 +2,3 @@ streamlit
 joblib
 numpy
 librosa
-sounddevice
-soundfile
